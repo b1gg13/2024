@@ -18,6 +18,6 @@ def prompt_dad_joke():
 
 
 if __name__ == "__main__":
-    print("Here's a random joke for you:")
+    print("Here's a random dad joke for you:")
     joke = prompt_dad_joke()
     print(joke)
