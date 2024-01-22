@@ -79,7 +79,7 @@ jokes = [
     "I ordered a chicken and an egg from Amazon. I'll let you know...",
     "Do you wanna box for your leftovers?" "No, but I'll wrestle you for them.",
     "That car looks nice but the muffler seems exhausted.",
-    "Shout out to my fingers. I can count on all of them.",
+    "Shout out to my fingers. I can count on all of them..",
 
 
 ]
